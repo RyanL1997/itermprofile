@@ -1,0 +1,5 @@
+# Mac gitignore
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
